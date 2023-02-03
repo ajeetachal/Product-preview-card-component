@@ -13,9 +13,9 @@
     display: flex;
     width: 35em;
     height: 30em;
-    margin-top: 50%;
+    margin-top: 10%;
     margin-left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -15%);
     border-radius: 15px;
  }
  .wrap1{
